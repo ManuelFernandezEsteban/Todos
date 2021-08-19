@@ -1,7 +1,7 @@
-#ToDo
+# ToDo
 Este es el proyecto de una simple aplicación de ejemplo de Todos
 
-###Notas:
+### Notas:
 
 Hay que resconstruir los modulos de Node
 ```
